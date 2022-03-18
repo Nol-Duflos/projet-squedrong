@@ -1,0 +1,45 @@
+/*Font importés de google font*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+/*Cartels*/
+
+.cartels {
+    width: 460px;
+    height: auto;
+    margin: 50px;
+    /*border: 1px #202020 solid;*/
+    font-family: 'Montserrat', sans-serif;
+}
+
+.titre-lorem {
+    padding: 0px 20px 20px 0px;
+}
+
+.cartels img {
+    width: 460px;
+}
+
+.cartels h6 {
+    color: #424242;
+    margin: 10px 0px;
+}
+
+.cartels h4 {
+    color: #E74862;
+    margin: 10px 0px;
+}
+
+.cartels p {
+    color: #424242;
+    font-size: 11px;
+    margin: 10px 0px;
+}
+
+.cartels a {
+    color: #E74862;
+    font-size: 12px;
+    text-decoration: underline;
+    margin: 20px 0px;
+}
