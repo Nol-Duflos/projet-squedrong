@@ -1,0 +1,25 @@
+/*Font importés de google font*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+
+/*Grille*/
+
+.grille{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    gap: 10px;
+    grid-template-rows: 500px repeat(5,500px);
+    row-gap: 50px; 
+    margin: 250px;
+}
+
+.class /*selecteur de la balise dans laquelle on place la grille*/{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    grid-template-rows: repeat(3,auto);
+    gap: 10px;
+    /*row-gap: 50px;*/ 
+    margin: 0px 250px;
+}

@@ -1,0 +1,30 @@
+/*Font importés de google font*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+
+/*Image*/
+.image-pres {
+    width: 920px;
+}
+
+h1 {   
+    
+    color: #E74862;
+    
+}
+
+h2 {
+    color: #6955AA;
+}
+
+h3 {
+    color: #242424;
+}
+
+p {
+    font-family:'Montserrat';  
+    font-size: 14px;
+    
+}
