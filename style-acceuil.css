@@ -34,6 +34,13 @@ li, a {
     color: #A9A5A0;
     text-decoration: none;      
 }
+mark { /*Pour changer la couleur d'une li spécifique en fonction de la page 
+    (ex: on est sur la page "à propos" ça seras la li "à propos" qui sera marqué) */
+    background-color: transparent;
+    color: #6955AA;
+    font-weight: 500;
+}
+
 
 /*Grille*/
 main {
