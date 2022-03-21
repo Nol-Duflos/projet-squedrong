@@ -12,14 +12,16 @@
     /*border: 1px #202020 solid;*/
     font-family: 'Montserrat', sans-serif;
 }
-
+/*Partie en bas du cartel*/
 .titre-lorem {
     padding: 0px 20px 20px 0px;
 }
 
-.cartels img {
+.cartels img { /*Taille de l'image du cartel*/
     width: 460px;
 }
+
+/*Apparence du texte et des titre du cartel*/
 
 .cartels h6 {
     color: #424242;
